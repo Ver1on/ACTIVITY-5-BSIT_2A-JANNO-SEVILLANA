@@ -1,4 +1,4 @@
-# Activity1_JANNO_SEVILLANA_2A
+# Activity 5 JANNO_SEVILLANA_2A
 Data structures assignment implementing stacks and queues with driver and documentation.
 # Stacks and Queues: Array vs. Linked List
 
